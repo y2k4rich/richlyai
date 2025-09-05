@@ -1,4 +1,4 @@
-# RichlyAI Hub 
+# RichlyAI
 
 [RichlyAI Hub](https://richlyai.com) is an all-in-one **Generative AI platform** that empowers individuals, teams, and businesses to create **transformative content, stunning imagery, and intelligent business tools** with ease.
 
@@ -35,3 +35,5 @@ Content is provided for **educational and informational purposes**.
 
 ---
  Empowering creativity and innovation with AI – [RichlyAI Hub](https://richlyai.com)
+
+ You can add to the list!

@@ -4,7 +4,7 @@ We welcome contributions that make **RichlyAI Hub** better for everyone.
 
 ## How to Contribute
 - Fork this repository
-- Create a new branch (`git checkout -b feature-name`)
+- Create a new branch
 - Make your changes
 - Commit (`git commit -m "Add new feature"`)
 - Push to your fork and open a Pull Request

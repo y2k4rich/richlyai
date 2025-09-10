@@ -36,4 +36,4 @@ Content is provided for **educational and informational purposes**.
 ---
  Empowering creativity and innovation with AI – [RichlyAI Hub](https://richlyai.com)
 
- You can add to the list!
+ You can add to the list

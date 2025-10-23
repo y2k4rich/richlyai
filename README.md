@@ -15,7 +15,8 @@ Try it now: [RichlyAI Hub](https://richlyai.com)
 -  [RichlyAI Blog](https://blog.richlyai.com) – Learn tips, guides, and AI insights.
 -  [RichlyAI Learn](https://learn.richlyai.com) – Train and earn certificate in prompt engineering, machine learning, etc.
 -  [RichlyAI Documentation](https://docs.richlyai.com) – Explore product docs, roadmap, and FAQs.  
--  [RichlyAI Website](https://richlyai.com) – Official homepage.  
+-  [RichlyAI Website](https://richlyai.com) – Official homepage.
+-  [AI Tools Hub](https://richlyai.com/ai-tools/) - AI Tools Directory
 
 # Why Choose RichlyAI?
 -  **Fast & reliable** AI responses  

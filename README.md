@@ -7,8 +7,8 @@ RichlyAI combines the power of **AI-driven text, image, and automation tools** i
 - Generate high-quality written content  
 - Create eye-catching AI images  
 - Automate workflows with AI assistants  
-- Improve productivity with smart business tools  
-
+- Improve productivity with smart business tools
+  
 Try it now: [RichlyAI Hub](https://richlyai.com)
 
 ## Resources

@@ -12,7 +12,7 @@ RichlyAI combines the power of **AI-driven text, image, and automation tools** i
 Try it now: [RichlyAI Hub](https://richlyai.com)
 
 ## Resources
--  [RichlyAI Blog](https://blog.richlyai.com) – Learn tips, guides, and AI insights.
+-  [RichlyAI Blog](https://richlyai.com/blog) – Learn tips, guides, and AI insights.
 -  [RichlyAI Learn](https://learn.richlyai.com) – Train and earn certificate in prompt engineering, machine learning, etc.
 -  [RichlyAI Documentation](https://docs.richlyai.com) – Explore product docs, roadmap, and FAQs.  
 -  [RichlyAI Website](https://richlyai.com) – Official homepage.
@@ -26,7 +26,7 @@ Try it now: [RichlyAI Hub](https://richlyai.com)
 
 ##  Stay Connected
 -  Website: [richlyai.com](https://richlyai.com)  
--  Blog: [blog.richlyai.com](https://blog.richlyai.com)  
+-  Blog: [blog.richlyai.com](https://richlyai.com/blog)  
 -  Docs: [docs.richlyai.com](https://docs.richlyai.com)
 -  Learn: [learn.richlyai.com](https://learn.richlyai.com)  
 

@@ -13,10 +13,11 @@ Try it now: [RichlyAI Hub](https://richlyai.com)
 
 ## Resources
 -  [RichlyAI Blog](https://richlyai.com/blog) – Learn tips, guides, and AI insights.
--  [RichlyAI Learn](https://learn.richlyai.com) – Train and earn certificate in prompt engineering, machine learning, etc.
+-  [RichlyAI Learn](https://learn.richlyai.com) – Train and earn certificate in automation, prompt engineering, machine learning, etc.
 -  [RichlyAI Documentation](https://docs.richlyai.com) – Explore product docs, roadmap, and FAQs.  
 -  [RichlyAI Website](https://richlyai.com) – Official homepage.
 -  [AI Tools Hub](https://richlyai.com/ai-tools/) - AI Tools Directory
+-  [Amo.ng](https://amo.ng) - Advanced AI Prompts Library
 
 # Why Choose RichlyAI?
 -  **Fast & reliable** AI responses  
@@ -28,7 +29,8 @@ Try it now: [RichlyAI Hub](https://richlyai.com)
 -  Website: [richlyai.com](https://richlyai.com)  
 -  Blog: [blog.richlyai.com](https://richlyai.com/blog)  
 -  Docs: [docs.richlyai.com](https://docs.richlyai.com)
--  Learn: [learn.richlyai.com](https://learn.richlyai.com)  
+-  Learn: [learn.richlyai.com](https://learn.richlyai.com)
+-  Amo.ng: [amo.ng](https://amo.ng)  
 
 ##  License
 This repository is maintained by **RichlyAI®**.  
